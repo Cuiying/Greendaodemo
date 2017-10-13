@@ -1,0 +1,2 @@
+# greendaodemo
+GreenDao作为目前最火的数据库框架(没有之一)，其性能和效率远胜于ORMLite与Xutils。GreenDao的诞生简化了我们的SQLite操作，使得访问数据库变得如此简单。本项目将介绍GreenDao的配置方法与使用步骤。
